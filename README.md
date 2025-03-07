@@ -8,6 +8,3 @@
  - Pandas 1.3.5
  - Scikit-learn 1.0.2
  - Torch-geometric 2.3.1
-### Run Step
- 1. python getFeature.py
- 2. python main.py
